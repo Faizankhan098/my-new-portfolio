@@ -226,7 +226,6 @@ a:hover{
 
 .theme-text{
     background: var(--secondary-gradient-color);
-    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
@@ -1032,7 +1031,6 @@ a:hover{
     background: var(--primary-gradient-color);
     background-clip: text;
     -webkit-background-clip: text;
-    text-fill-color: transparent;
     -webkit-text-fill-color: transparent;
 }
 
